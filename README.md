@@ -13,7 +13,7 @@
 [2. 프로젝트 설계주안점](#프로젝트-설계주안점)  
 [3. 구현 기능](#구현-기능)  
 [4. 팀원 및 주 담당 기능](#팀원-및-주-담당-기능)<br>
-[5. ERD(pdf링크)]()<br>
+[5. ERD(pdf링크)](https://github.com/Hwangsunae88/TeachHaeDuo/blob/37a4092f1b829b90a0ae546321deb0a0f53656dc/ERD_%EA%B3%BC%EC%99%B8%ED%95%B4%EB%93%80%EC%98%A4.png)<br>
 [6. UI설계서(pdf링크)]()<br>
 [7. 스토리보드(pdf링크)]()<br>
 [8. 최종발표자료(pdf링크)]()<br>
@@ -89,7 +89,7 @@
 
 ## ERD
 
-[ERD(pdf링크)]()
+[ERD(pdf링크)](https://github.com/Hwangsunae88/TeachHaeDuo/blob/37a4092f1b829b90a0ae546321deb0a0f53656dc/ERD_%EA%B3%BC%EC%99%B8%ED%95%B4%EB%93%80%EC%98%A4.png)
 
 ## UI 설계서
 [UI설계서(pdf링크)]()

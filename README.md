@@ -17,8 +17,8 @@
 [6. 기획보고서(pdf링크)](https://github.com/Hwangsunae88/TeachHaeDuo/blob/0bcbee6b530a90984cd6482429e0dfd47f846689/%EA%B3%BC%EC%99%B8%ED%95%B4%EB%93%80%EC%98%A4_%EA%B8%B0%ED%9A%8D%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)<br>
 [7. 기획산출물(pdf링크)](https://github.com/Hwangsunae88/TeachHaeDuo/blob/1db6bf0021ab8c8a1ec1306bc817ff6134c4e565/%EA%B3%BC%EC%99%B8%ED%95%B4%EB%93%80%EC%98%A4_%EA%B8%B0%ED%9A%8D%EC%82%B0%EC%B6%9C%EB%AC%BC.pdf)<br>
 [8. UI설계서(pdf링크)](https://github.com/Hwangsunae88/TeachHaeDuo/blob/6e621a251331e4e6d02cfdd6f2223e0374688967/%EA%B3%BC%EC%99%B8%ED%95%B4%EB%93%80%EC%98%A4_UI%EC%84%A4%EA%B3%84%EC%84%9C.pdf)<br>
-[9. 스토리보드(pdf링크)]()<br>
-[10. 최종발표자료(pdf링크)]()<br>
+
+[9. 최종발표자료& 스토리보드(pdf링크)]()<br>
 
 ## 개발환경
   + Servlet 4.0
@@ -101,9 +101,7 @@
 ## UI 설계서
 [UI설계서(pdf링크)](https://github.com/Hwangsunae88/TeachHaeDuo/blob/6e621a251331e4e6d02cfdd6f2223e0374688967/%EA%B3%BC%EC%99%B8%ED%95%B4%EB%93%80%EC%98%A4_UI%EC%84%A4%EA%B3%84%EC%84%9C.pdf)
 
-## 스토리보드
-[스토리보드(pdf링크)]()
 
-## 최종발표자료
-[최종발표자료(pdf링크)]()
+## 최종발표자료& 스토리보드
+[최종발표자료& 스토리보드(pdf링크)]()
   

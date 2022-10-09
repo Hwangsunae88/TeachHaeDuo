@@ -14,9 +14,11 @@
 [3. 구현 기능](#구현-기능)  
 [4. 팀원 및 주 담당 기능](#팀원-및-주-담당-기능)<br>
 [5. ERD(pdf링크)](https://github.com/Hwangsunae88/TeachHaeDuo/blob/37a4092f1b829b90a0ae546321deb0a0f53656dc/ERD_%EA%B3%BC%EC%99%B8%ED%95%B4%EB%93%80%EC%98%A4.png)<br>
-[6. UI설계서(pdf링크)]()<br>
-[7. 스토리보드(pdf링크)]()<br>
-[8. 최종발표자료(pdf링크)]()<br>
+[6. 기획보고서(pdf링크)](https://github.com/Hwangsunae88/TeachHaeDuo/blob/0bcbee6b530a90984cd6482429e0dfd47f846689/%EA%B3%BC%EC%99%B8%ED%95%B4%EB%93%80%EC%98%A4_%EA%B8%B0%ED%9A%8D%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)<br>
+
+[7. UI설계서(pdf링크)]()<br>
+[8. 스토리보드(pdf링크)]()<br>
+[9. 최종발표자료(pdf링크)]()<br>
 
 ## 개발환경
   + Servlet 4.0
@@ -90,6 +92,9 @@
 ## ERD
 
 [ERD(pdf링크)](https://github.com/Hwangsunae88/TeachHaeDuo/blob/37a4092f1b829b90a0ae546321deb0a0f53656dc/ERD_%EA%B3%BC%EC%99%B8%ED%95%B4%EB%93%80%EC%98%A4.png)
+
+## 기획보고서
+[기획보고서(pdf링크)](https://github.com/Hwangsunae88/TeachHaeDuo/blob/0bcbee6b530a90984cd6482429e0dfd47f846689/%EA%B3%BC%EC%99%B8%ED%95%B4%EB%93%80%EC%98%A4_%EA%B8%B0%ED%9A%8D%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
 
 ## UI 설계서
 [UI설계서(pdf링크)]()

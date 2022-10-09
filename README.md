@@ -16,7 +16,7 @@
 [5. ERD(pdf링크)](https://github.com/Hwangsunae88/TeachHaeDuo/blob/37a4092f1b829b90a0ae546321deb0a0f53656dc/ERD_%EA%B3%BC%EC%99%B8%ED%95%B4%EB%93%80%EC%98%A4.png)<br>
 [6. 기획보고서(pdf링크)](https://github.com/Hwangsunae88/TeachHaeDuo/blob/0bcbee6b530a90984cd6482429e0dfd47f846689/%EA%B3%BC%EC%99%B8%ED%95%B4%EB%93%80%EC%98%A4_%EA%B8%B0%ED%9A%8D%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)<br>
 
-[7. UI설계서(pdf링크)]()<br>
+[7. UI설계서(pdf링크)](https://github.com/Hwangsunae88/TeachHaeDuo/blob/6e621a251331e4e6d02cfdd6f2223e0374688967/%EA%B3%BC%EC%99%B8%ED%95%B4%EB%93%80%EC%98%A4_UI%EC%84%A4%EA%B3%84%EC%84%9C.pdf)<br>
 [8. 스토리보드(pdf링크)]()<br>
 [9. 최종발표자료(pdf링크)]()<br>
 
@@ -97,7 +97,7 @@
 [기획보고서(pdf링크)](https://github.com/Hwangsunae88/TeachHaeDuo/blob/0bcbee6b530a90984cd6482429e0dfd47f846689/%EA%B3%BC%EC%99%B8%ED%95%B4%EB%93%80%EC%98%A4_%EA%B8%B0%ED%9A%8D%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
 
 ## UI 설계서
-[UI설계서(pdf링크)]()
+[UI설계서(pdf링크)](https://github.com/Hwangsunae88/TeachHaeDuo/blob/6e621a251331e4e6d02cfdd6f2223e0374688967/%EA%B3%BC%EC%99%B8%ED%95%B4%EB%93%80%EC%98%A4_UI%EC%84%A4%EA%B3%84%EC%84%9C.pdf)
 
 ## 스토리보드
 [스토리보드(pdf링크)]()
